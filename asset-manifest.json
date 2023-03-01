@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Portfolio_React/static/css/main.38bfc662.css",
+    "main.js": "/Portfolio_React/static/js/main.7f1f9b32.js",
+    "static/js/787.28cb0dcd.chunk.js": "/Portfolio_React/static/js/787.28cb0dcd.chunk.js",
+    "static/media/aldebaran-s-qtRF_RxCAo0-unsplash.jpg": "/Portfolio_React/static/media/aldebaran-s-qtRF_RxCAo0-unsplash.b79d9040e51bed5594db.jpg",
+    "static/media/jeremy-perkins-uhjiu8FjnsQ-unsplash.jpg": "/Portfolio_React/static/media/jeremy-perkins-uhjiu8FjnsQ-unsplash.ee2922854adec9e72508.jpg",
+    "static/media/norbert-kowalczyk-PQHOmT-vkgA-unsplash.jpg": "/Portfolio_React/static/media/norbert-kowalczyk-PQHOmT-vkgA-unsplash.b57c40a51cfdb58f6810.jpg",
+    "static/media/suit.png": "/Portfolio_React/static/media/suit.f53e692ae4494dcac1d4.png",
+    "static/media/sketch.png": "/Portfolio_React/static/media/sketch.0f72130d77b7e94e71b0.png",
+    "static/media/github-mark-white.svg": "/Portfolio_React/static/media/github-mark-white.97ed8e7eef60d61ca469881dd6f34511.svg",
+    "index.html": "/Portfolio_React/index.html",
+    "main.38bfc662.css.map": "/Portfolio_React/static/css/main.38bfc662.css.map",
+    "main.7f1f9b32.js.map": "/Portfolio_React/static/js/main.7f1f9b32.js.map",
+    "787.28cb0dcd.chunk.js.map": "/Portfolio_React/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.38bfc662.css",
+    "static/js/main.7f1f9b32.js"
+  ]
+}
